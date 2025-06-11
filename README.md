@@ -4,7 +4,7 @@ Este repositório contém os projetos desenvolvidos durante a Piscina da Escola 
 
 ## Sobre a Piscina
 
-A Piscina é a fase de imersão na 42, onde são realizados vários desafios e projetos para desenvolver lógica, programação e trabalho em equipe.
+A Piscina é a fase inicial do processo seletivo e de imersão na 42, onde são realizados vários desafios e projetos para desenvolver lógica, programação e trabalho em equipe.
 
 ## Tecnologias Usadas
 
